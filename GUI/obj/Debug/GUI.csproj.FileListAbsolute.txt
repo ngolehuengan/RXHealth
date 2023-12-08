@@ -1,0 +1,891 @@
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\GUI.exe.config
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\GUI.exe
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\GUI.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\BLL.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\DTO.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\BLL.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\DTO.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.exe
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\obj\Debug\GUI.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\DAL.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Memory.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\BLL.dll.config
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\DAL.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\DAL.dll.config
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Memory.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Calcifer\Documents\Project\HealthRX\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GUI.exe.config
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GUI.exe
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GUI.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BLL.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DAL.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DotNetEnv.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DTO.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GLB.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.commons.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.forms.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.io.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.kernel.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.layout.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.sign.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.svg.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Memory.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Sprache.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BLL.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BLL.dll.config
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DAL.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DAL.dll.config
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DTO.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GLB.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.commons.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.forms.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.io.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.kernel.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.layout.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.sign.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\itext.svg.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Memory.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Sprache.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.exe
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GUI.exe.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GUI.exe
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GUI.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BLL.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DAL.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DotNetEnv.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DTO.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GLB.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.commons.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.forms.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.io.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.kernel.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.layout.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.sign.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.svg.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Memory.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Sprache.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BLL.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BLL.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DAL.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DAL.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DTO.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GLB.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.commons.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.forms.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.io.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.kernel.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.layout.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.sign.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\itext.svg.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Memory.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Sprache.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.exe
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.pdb
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormSell.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormStaff.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Spire.XLS.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Spire.XLS.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormAccount.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormBuy.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormChangePwd.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormAccount.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormCateProvi.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormBuy.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormSell.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormStaff.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.exe
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\GUI.exe
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\GUI.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\BLL.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DAL.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DotNetEnv.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DTO.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\GLB.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.commons.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.forms.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.io.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.kernel.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.layout.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.sign.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.svg.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Spire.XLS.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Buffers.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Memory.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\MySql.Data.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Sprache.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\BLL.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\BLL.dll.config
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DAL.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DAL.dll.config
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\DTO.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\GLB.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.commons.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.forms.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.io.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.kernel.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.layout.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.sign.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\itext.svg.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Spire.XLS.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Buffers.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Memory.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\MySql.Data.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Sprache.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\EPPlus.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\EPPlus.xml
+C:\Users\LAM\source\repos\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\EPPlus.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\EPPlus.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+<<<<<<< HEAD
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+=======
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormCateCate.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormCateProvi.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\EPPlus.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Spire.XLS.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\EPPlus.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\Spire.XLS.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormAccount.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormChangePwd.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateCate.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateProvi.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormBuy.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormSell.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormStaff.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormCateIngre.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormCateCus.resources
+>>>>>>> 1d424a06ecc3ed27a38f79de1507bc59ea61e832
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.FormCateCate.resources
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.FormCateCus.resources
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.FormCateIngre.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+>>>>>>> 17d57986bdd99e5152f6b6b27388ea9b15448f62
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormInvenImp.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormInvoice.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormInvenChk.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormDetails.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.CustomTextBox.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormCateDrug.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormPDetails.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormStatistic.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormRequest.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormStatistic.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormInvoice.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormCateDrug.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormPDetails.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormDetails.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormInvenChk.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormInvenImp.resources
+C:\Users\LAM\Source\Repos\RXHealth\GUI\obj\Debug\GUI.FormRequest.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.Forms.FormSetting.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.FormSetting.resources
+>>>>>>> 6d416251cc04bdbc4818e3bba35f410c9e4a0108
+C:\Users\LAM\source\repos\RXHealth\GUI\obj\Debug\GUI.FormSetting.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormStatistic.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvoice.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateCus.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateDrug.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormPDetails.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateIngre.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormDetails.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvenChk.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvenImp.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormSetting.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.FormRequest.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\C#\RXHealth\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormAccount.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormStatistic.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormInvoice.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormCateCate.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormCateCus.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormCateDrug.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormPDetails.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormCateIngre.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormCateProvi.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormDetails.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormInvenChk.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormInvenImp.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormSetting.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormRequest.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormBuy.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormSell.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.FormStaff.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.LoginForm.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.MainForm.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\C#\RXHealth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\C#\RXHealth\GUI\obj\Debug\GUI.exe
+D:\C#\RXHealth\GUI\obj\Debug\GUI.pdb
+D:\C#\RXHealth\GUI\bin\Debug\GUI.exe.config
+D:\C#\RXHealth\GUI\bin\Debug\GUI.exe
+D:\C#\RXHealth\GUI\bin\Debug\GUI.pdb
+D:\C#\RXHealth\GUI\bin\Debug\AlphaBlendTextBox.dll
+D:\C#\RXHealth\GUI\bin\Debug\BLL.dll
+D:\C#\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\RXHealth\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\C#\RXHealth\GUI\bin\Debug\DAL.dll
+D:\C#\RXHealth\GUI\bin\Debug\DotNetEnv.dll
+D:\C#\RXHealth\GUI\bin\Debug\DTO.dll
+D:\C#\RXHealth\GUI\bin\Debug\EPPlus.dll
+D:\C#\RXHealth\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\C#\RXHealth\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\C#\RXHealth\GUI\bin\Debug\GLB.dll
+D:\C#\RXHealth\GUI\bin\Debug\Google.Protobuf.dll
+D:\C#\RXHealth\GUI\bin\Debug\Guna.UI2.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.barcodes.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.commons.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.forms.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.io.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.kernel.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.layout.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.pdfa.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.sign.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.styledxmlparser.dll
+D:\C#\RXHealth\GUI\bin\Debug\itext.svg.dll
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C#\RXHealth\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\C#\RXHealth\GUI\bin\Debug\Spire.XLS.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Buffers.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.IO.Pipelines.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Memory.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\RXHealth\GUI\bin\Debug\System.ValueTuple.dll
+D:\C#\RXHealth\GUI\bin\Debug\ZstdSharp.dll
+D:\C#\RXHealth\GUI\bin\Debug\MySql.Data.dll
+D:\C#\RXHealth\GUI\bin\Debug\Sprache.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\C#\RXHealth\GUI\bin\Debug\BLL.pdb
+D:\C#\RXHealth\GUI\bin\Debug\BLL.dll.config
+D:\C#\RXHealth\GUI\bin\Debug\DAL.pdb
+D:\C#\RXHealth\GUI\bin\Debug\DAL.dll.config
+D:\C#\RXHealth\GUI\bin\Debug\DTO.pdb
+D:\C#\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\C#\RXHealth\GUI\bin\Debug\EPPlus.xml
+D:\C#\RXHealth\GUI\bin\Debug\GLB.pdb
+D:\C#\RXHealth\GUI\bin\Debug\Google.Protobuf.pdb
+D:\C#\RXHealth\GUI\bin\Debug\Google.Protobuf.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.barcodes.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.commons.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.forms.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.io.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.kernel.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.layout.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.pdfa.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.sign.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.styledxmlparser.xml
+D:\C#\RXHealth\GUI\bin\Debug\itext.svg.xml
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.xml
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C#\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C#\RXHealth\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\C#\RXHealth\GUI\bin\Debug\Spire.XLS.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Buffers.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.IO.Pipelines.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Memory.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\RXHealth\GUI\bin\Debug\System.ValueTuple.xml
+D:\C#\RXHealth\GUI\bin\Debug\MySql.Data.xml
+D:\C#\RXHealth\GUI\bin\Debug\Sprache.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\C#\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\C#\RXHealth\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GUI.exe.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GUI.exe
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GUI.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\BLL.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DAL.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DotNetEnv.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DTO.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\EPPlus.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GLB.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.commons.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.forms.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.io.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.kernel.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.layout.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.sign.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.svg.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Spire.XLS.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Memory.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Sprache.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\BLL.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\BLL.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DAL.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DAL.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DTO.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\EPPlus.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GLB.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.commons.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.forms.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.io.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.kernel.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.layout.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.sign.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\itext.svg.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Spire.XLS.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Memory.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Sprache.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormAccount.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormStatistic.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormInvoice.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormCateCate.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormCateCus.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormCateDrug.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormPDetails.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormCateIngre.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormCateProvi.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormDetails.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormInvenChk.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormInvenImp.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormSetting.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormRequest.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormBuy.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormSell.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.FormStaff.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.exe
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\obj\Debug\GUI.pdb
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\DTO.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Backup\RXHealth2311\GUI\bin\Debug\GLB.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\DTO.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\GLB.dll.config
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.Application.Forms.Transactions.Sell.FormSell.resources
+C:\Users\Calcifer\OneDrive\Tài liệu\Workspace\RXHealth\GUI\obj\Debug\GUI.Application.Forms.Transactions.Sell.AddCustomer.FormAddCustomer.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GUI.exe.config
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GUI.exe
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GUI.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BLL.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DAL.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DotNetEnv.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DTO.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\EPPlus.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GLB.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.commons.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.forms.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.io.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.kernel.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.layout.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.sign.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.svg.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Spire.XLS.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Memory.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Sprache.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BLL.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BLL.dll.config
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DAL.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DAL.dll.config
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DTO.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DTO.dll.config
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\EPPlus.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GLB.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\GLB.dll.config
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.commons.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.forms.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.io.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.kernel.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.layout.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.sign.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\itext.svg.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Spire.XLS.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Memory.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Sprache.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormAccount.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormChangePwdHandle.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormStatistic.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvoice.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateCate.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateCus.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateDrug.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormPDetails.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormPRecycleBin.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateIngre.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormCateProvi.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormDetails.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvenChk.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormInvenImp.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormSetting.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormRequest.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormBuy.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormSell.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.FormStaff.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.LoginForm.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.exe
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.pdb
+D:\C#\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\C#\RXHealth\GUI\bin\Debug\DTO.dll.config
+D:\C#\RXHealth\GUI\bin\Debug\GLB.dll.config
+D:\C#\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\C#\RXHealth\GUI\obj\Debug\GUI.SDetailsForm.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.Application.Forms.Transactions.Sell.CustomerMini.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.CustomerMini.resources
+D:\C#\RXHealth\GUI\obj\Debug\GUI.IDetailsForm.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.IDetailsForm.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.SDetailsForm.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\obj\Debug\GUI.CustomerMini.resources
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\ClosedXML.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\Irony.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.IO.Packaging.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\XLParser.dll
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\ClosedXML.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Calcifer\Documents\Workspace\RXHealth\GUI\bin\Debug\System.IO.Packaging.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\ClosedXML.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\Irony.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\XLParser.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DTO.dll.config
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\ClosedXML.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\GLB.dll.config
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\System.IO.Packaging.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.IDetailsForm.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.SDetailsForm.resources
+C:\Users\Ngan Ngo\OneDrive\Documents\GitHub\RXHealth\GUI\obj\Debug\GUI.CustomerMini.resources
